@@ -1,0 +1,22 @@
+body {
+    background-color: brown;
+    text-align: center;
+
+}
+
+h1 {
+    color: cadetblue;
+    font-size: 50px;
+    text-shadow: 10px 10px 10px dimgray;
+   
+}
+
+
+
+section {
+    width:  500px;
+    height: 500px;
+    background-color: cornsilk;
+    text-align: center;
+
+}
